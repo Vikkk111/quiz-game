@@ -1,0 +1,7 @@
+C:\Users\vikto\Source\Repos\quiz-game\quiz-game\obj\Debug\quiz-game.csproj.AssemblyReference.cache
+C:\Users\vikto\Source\Repos\quiz-game\quiz-game\obj\Debug\quiz-game.csproj.CoreCompileInputs.cache
+C:\Users\vikto\Source\Repos\quiz-game\quiz-game\bin\Debug\quiz-game.exe.config
+C:\Users\vikto\Source\Repos\quiz-game\quiz-game\bin\Debug\quiz-game.exe
+C:\Users\vikto\Source\Repos\quiz-game\quiz-game\bin\Debug\quiz-game.pdb
+C:\Users\vikto\Source\Repos\quiz-game\quiz-game\obj\Debug\quiz-game.exe
+C:\Users\vikto\Source\Repos\quiz-game\quiz-game\obj\Debug\quiz-game.pdb
